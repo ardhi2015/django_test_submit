@@ -17,7 +17,7 @@
 - in api testing, provide tests to call each of the api endpoint, and give some assertions for the response (i.e. using `assert`).
 - in unit tests, you need to make sure that the test is self-contained by the use of mocking. make sure to avoid calling external API or reading the database during the testing.
 - run your tests
-- run your tests, then provide a a github repo of what you've done along with the instruction on how to run it.
+- provide a github repo of what you've done along with the instruction on how to run it.
 
 ## Information
 - the credentials for the two accounts in the database are as follows:
