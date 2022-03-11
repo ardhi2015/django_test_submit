@@ -16,7 +16,8 @@
 - create tests in each of these files, test whatever you think needs to be tested, more is always better. Please ensure that the tests cover at minimum 80% of the use case. be sure to try supplying wrong data to some of the endpoints and functions and class methods to test if they can handle the wrong data correctly, or give the right exceptions.
 - in api testing, provide tests to call each of the api endpoint, and give some assertions for the response (i.e. using `assert`).
 - in unit tests, you need to make sure that the test is self-contained by the use of mocking. make sure to avoid calling external API or reading the database during the testing.
-- run your tests, then provide a screenshot of the result along with the instruction on how to run it.
+- run your tests
+- run your tests, then provide a a github repo of what you've done along with the instruction on how to run it.
 
 ## Information
 - the credentials for the two accounts in the database are as follows:
