@@ -18,10 +18,10 @@
 - in unit tests, you need to make sure that the test is self-contained by the use of mocking. make sure to avoid calling external API or reading the database during the testing.
 - run your tests, then provide a screenshot of the result along with the instruction on how to run it.
 
-### Information
+## Information
 - the credentials for the two accounts in the database are as follows:
   - username: human, password: 000
   - username: alien, password: 000
 
-### Acknowledgements
+## Acknowledgements
 some data are sourced from [BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://data.bmkg.go.id)
