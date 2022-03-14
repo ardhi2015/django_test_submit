@@ -17,3 +17,6 @@ requests==2.27.1
 sqlparse==0.4.2
 uritemplate==4.1.1
 urllib3==1.26.8
+pytest-django
+pytest-mock
+requests-mock
